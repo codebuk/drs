@@ -1,5 +1,5 @@
 # drs
-DRS Notes
+Notes on the serial communication protocol to the transport
 State INIT
 
 Aim:  The transporter should be at the postion "over the flip and drop compartment"
